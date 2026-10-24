@@ -1,0 +1,22 @@
+FLASH EAU-METHANOL - NRTL
+Debit alimentation : 50.000000 mol/h
+Temperature : 80.00 °C
+Pression : 101.325 kPa
+
+Fraction vaporisee : 0.33004990
+Fraction liquide : 0.66995010
+Debit liquide : 33.49750489 mol/h
+Debit vapeur : 16.50249511 mol/h
+
+Composition liquide [eau, methanol]
+[0.72580233 0.27419767]
+
+Composition vapeur [eau, methanol]
+[0.34464079 0.65535921]
+
+K [eau, methanol] : [0.47484112 2.39009764]
+Iterations : 33
+
+Puissance sensible estimee : 0.05929306 kW
+La puissance est une estimation du chauffage sensible, pas un bilan enthalpique complet du flash.
+NRTL utilise ici une correlation publiee et une vapeur ideale. Verifier les parametres et le modele de vapeur de DWSIM.
